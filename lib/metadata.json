@@ -1,0 +1,1812 @@
+{
+  "vaultName": "Tower of Strength D&D kampanja",
+  "lastExport": 1708468979953,
+  "pluginVersion": "1.8.0",
+  "validBodyClasses": "publish css-settings-manager theme-light ctp-latte ctp-frappe ctp-accent-light-lavender ctp-accent-lavender anuppuccin-accent-toggle anp-current-line-border anp-custom-checkboxes anp-speech-bubble anp-codeblock-numbers anp-list-toggle anp-table-toggle anp-button-metadata-toggle anp-h1-red anp-h2-peach anp-h3-green anp-h4-teal anp-h5-lavender anp-h6-mauve anp-decoration-toggle anp-bold-flamingo anp-italic-teal anp-highlight-sapphire anp-canvas-dark-bg anp-collapse-folders anp-file-icons anp-full-rainbow-color-toggle anp-rainbow-file-toggle anp-full-rainbow-text-color-toggle-light anp-full-rainbow-text-color-toggle-dark anp-simple-rainbow-title-toggle anp-simple-rainbow-icon-folder-toggle anp-simple-rainbow-indentation-toggle anp-simple-rainbow-collapse-toggle anp-simple-rainbow-icon-toggle anp-rainbow-subfolder-color-toggle anp-card-layout anp-bg-fix anp-hide-borders anp-card-shadows anp-card-layout-actions anp-card-layout-filebrowser anp-theme-ext-light ctp-atom-light ctp-nord-dark",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "Public/assets/Bag-of-Holding.jpeg",
+    "Public/assets/Beholder-adnd.webp",
+    "Public/assets/Cloak-of-Evasion.png",
+    "Public/assets/darz.jpg.jpeg",
+    "Public/assets/dozen-suns-tetovaza.jpeg",
+    "Public/assets/Durin.jpeg",
+    "Public/assets/Gundam.jpeg",
+    "Public/assets/Holy-Water.png",
+    "Public/assets/Lantern-of-Purity.jpg",
+    "Public/assets/Leda.jpeg",
+    "Public/assets/Ledina-haljina.jpeg",
+    "Public/assets/Maxwell.jpg",
+    "Public/assets/Omnigod-Amulet.png",
+    "Public/assets/Planes-of-Existence.webp",
+    "Public/assets/Potion-of-Healing-Greater.png",
+    "Public/assets/Potion-of-Healing-Regular.png",
+    "Public/assets/Ring-of-Protection.jpeg",
+    "Public/assets/Rope-of-Entanglement.jpeg",
+    "Public/assets/Sebastian.png",
+    "Public/assets/Spyglass.png",
+    "Public/assets/The-Dark-Urge.jpeg",
+    "Public/assets/Tinkertop-Signet-Ring.png",
+    "Public/assets/Vestment-of-Saint-Goliver.png",
+    "Public/assets/Wand-of-Eragors-Blessing.png",
+    "Public/assets/Zrinka.jpeg",
+    "Public/Dnevnik/Blagajna.md",
+    "Public/Dnevnik/Durin.md",
+    "Public/Dnevnik/Gundam.md",
+    "Public/Dnevnik/Inventar.md",
+    "Public/Dnevnik/Leda.md",
+    "Public/Dnevnik/Maxwell.md",
+    "Public/Dnevnik/Misterije.md",
+    "Public/Dnevnik/Obaveze i Planovi.md",
+    "Public/Dnevnik/Pravila Krađe.md",
+    "Public/Dnevnik/Sebastian.md",
+    "Public/Dnevnik/Session 1.md",
+    "Public/Dnevnik/Session 2.md",
+    "Public/Dnevnik/Session 3.md",
+    "Public/Dnevnik/Session 4.md",
+    "Public/Dnevnik/Session 5.md",
+    "Public/Dnevnik/Session 6.md",
+    "Public/Dnevnik/Session 7.md",
+    "Public/Dnevnik/Session 8.md",
+    "Public/Dnevnik/Session 9.md",
+    "Public/Dnevnik/Session 10.md",
+    "Public/Dnevnik/Zrinka.md",
+    "Public/Likovi/Ankica.md",
+    "Public/Likovi/Beholder.md",
+    "Public/Likovi/Bruni.md",
+    "Public/Likovi/Dominik.md",
+    "Public/Likovi/Dragoljub.md",
+    "Public/Likovi/Fardo.md",
+    "Public/Likovi/Furin.md",
+    "Public/Likovi/Garen.md",
+    "Public/Likovi/Gordano.md",
+    "Public/Likovi/Gorge.md",
+    "Public/Likovi/Grim.md",
+    "Public/Likovi/Grimli.md",
+    "Public/Likovi/Hogg.md",
+    "Public/Likovi/Jozef.md",
+    "Public/Likovi/Khinox.md",
+    "Public/Likovi/Kregg Barellfist.md",
+    "Public/Likovi/Krip.md",
+    "Public/Likovi/Lima.md",
+    "Public/Likovi/Ljubica.md",
+    "Public/Likovi/Maestro Fritzfild.md",
+    "Public/Likovi/Margareta.md",
+    "Public/Likovi/Mirza.md",
+    "Public/Likovi/Oregon.md",
+    "Public/Likovi/Pejo.md",
+    "Public/Likovi/Perica.md",
+    "Public/Likovi/Pirat Skariba.md",
+    "Public/Likovi/Profesor Korbo.md",
+    "Public/Likovi/Profesor Lukash.md",
+    "Public/Likovi/Rakan.md",
+    "Public/Likovi/Ravioli.md",
+    "Public/Likovi/Rondo.md",
+    "Public/Likovi/Slavica.md",
+    "Public/Likovi/Tomica.md",
+    "Public/Mjesta/Ashpit.md",
+    "Public/Mjesta/Blatokrižje.md",
+    "Public/Mjesta/Bukit.md",
+    "Public/Mjesta/Coggsville.md",
+    "Public/Mjesta/Drevna Patuljačka Knjižnica.md",
+    "Public/Mjesta/Eragorova katedrala.md",
+    "Public/Mjesta/Fortaare.md",
+    "Public/Mjesta/Gondar.md",
+    "Public/Mjesta/Knjižnica u Gondaru.md",
+    "Public/Mjesta/Little Post.md",
+    "Public/Mjesta/Lumin.md",
+    "Public/Mjesta/Magic Sex Shop.md",
+    "Public/Mjesta/Mudland.md",
+    "Public/Mjesta/Nyn Bukit.md",
+    "Public/Mjesta/Peninsular.md",
+    "Public/Mjesta/Quan Ma.md",
+    "Public/Mjesta/Rundek.md",
+    "Public/Mjesta/Ružičnjak.md",
+    "Public/Mjesta/Sapijina crkva.md",
+    "Public/Mjesta/Široki Brijeg.md",
+    "Public/Mjesta/Škola Otvorene Magije.md",
+    "Public/Mjesta/Stonehelm Hollow.md",
+    "Public/Mjesta/Svet Stvari.md",
+    "Public/Mjesta/The Isles.md",
+    "Public/Mjesta/Tinkertop.md",
+    "Public/Mjesta/Tinkertop Mlin.md",
+    "Public/Mjesta/Veli Pijuk.md",
+    "Public/Mjesta/Veliki Krč.md",
+    "Public/Mjesta/Žulj i Mulj.md",
+    "Public/Mjesta/Žuta Lokva.md",
+    "Public/Organizacije/Dozen Sons.md",
+    "Public/Organizacije/EOME kultisti.md",
+    "Public/Organizacije/Flyer.md",
+    "Public/Organizacije/Stoneborn.md",
+    "Public/Pravila/Aura of Purity.md",
+    "Public/Pravila/Bless.md",
+    "Public/Pravila/Blinded.md",
+    "Public/Pravila/Catapult.md",
+    "Public/Pravila/Charmed.md",
+    "Public/Pravila/Deafened.md",
+    "Public/Pravila/Fly.md",
+    "Public/Pravila/Incapacitated.md",
+    "Public/Pravila/Lesser Restoration.md",
+    "Public/Pravila/Paralyzed.md",
+    "Public/Pravila/Poisoned.md",
+    "Public/Pravila/Restrained.md",
+    "Public/Predaja/Accra.md",
+    "Public/Predaja/Akko.md",
+    "Public/Predaja/Astralni Plane.md",
+    "Public/Predaja/Black Blessing.md",
+    "Public/Predaja/Black Fang.md",
+    "Public/Predaja/Capita.md",
+    "Public/Predaja/Carstvo Numeria.md",
+    "Public/Predaja/Darz.md",
+    "Public/Predaja/Darzahar.md",
+    "Public/Predaja/Duergar.md",
+    "Public/Predaja/Eragor.md",
+    "Public/Predaja/Flatter.md",
+    "Public/Predaja/Gea.md",
+    "Public/Predaja/Gn'dair.md",
+    "Public/Predaja/Goldenleaf.md",
+    "Public/Predaja/Goliver.md",
+    "Public/Predaja/Marion Lotus.md",
+    "Public/Predaja/Middlegate.md",
+    "Public/Predaja/Morynea.md",
+    "Public/Predaja/New Darz.md",
+    "Public/Predaja/Northfall.md",
+    "Public/Predaja/Obbo.md",
+    "Public/Predaja/Obitelj Lotus.md",
+    "Public/Predaja/Olus.md",
+    "Public/Predaja/Olusus.md",
+    "Public/Predaja/Planes of Existence.md",
+    "Public/Predaja/Pobuna patuljaka.md",
+    "Public/Predaja/Pobuna sjevera.md",
+    "Public/Predaja/Pobuna zapada.md",
+    "Public/Predaja/Radeon II Lotus.md",
+    "Public/Predaja/Retrospektiva.md",
+    "Public/Predaja/Rurik Mudbeard.md",
+    "Public/Predaja/Sapia.md",
+    "Public/Predaja/Sirio Talon.md",
+    "Public/Predaja/Soron the Dragonslayer.md",
+    "Public/Predaja/Tarr Bonemare.md",
+    "Public/Predaja/Terra Dos.md",
+    "Public/Predaja/Tok.md",
+    "Public/Predaja/True Darazians.md",
+    "Public/Predaja/Veliki Rat.md",
+    "Public/Predaja/Wetland.md",
+    "Public/Predaja/Xor.md",
+    "Public/Predaja/Xorrax.md",
+    "Public/Predaja/Yugul.md",
+    "Public/Predmeti/Bag of Holding.md",
+    "Public/Predmeti/Cloak of Evasion.md",
+    "Public/Predmeti/Holy Water.md",
+    "Public/Predmeti/Lantern of Purity.md",
+    "Public/Predmeti/Omnigod Amulet.md",
+    "Public/Predmeti/Potion of Healing (Greater).md",
+    "Public/Predmeti/Potion of Healing (Regular).md",
+    "Public/Predmeti/Prvi Plamen.md",
+    "Public/Predmeti/Repeating Shot.md",
+    "Public/Predmeti/Ring of Protection.md",
+    "Public/Predmeti/Rope of Consensual Entanglement.md",
+    "Public/Predmeti/Spell Refueling Ring.md",
+    "Public/Predmeti/Spyglass.md",
+    "Public/Predmeti/The Dark Urge.md",
+    "Public/Predmeti/Tinkertop Signet Ring.md",
+    "Public/Predmeti/Vestment of Saint Goliver.md",
+    "Public/Predmeti/Wand of Eragor's Blessing.md",
+    "scripts/frontmatter.js.md",
+    "index.md",
+    "lib/media/durin.jpeg",
+    "lib/media/gundam.jpeg",
+    "lib/media/leda.jpeg",
+    "lib/media/ledina-haljina.jpeg",
+    "lib/media/maxwell.jpg",
+    "lib/media/sebastian.png",
+    "lib/media/zrinka.jpeg",
+    "lib/media/beholder-adnd.webp",
+    "lib/media/dozen-suns-tetovaza.jpeg",
+    "lib/media/darz.jpg.jpeg",
+    "lib/media/planes-of-existence.webp",
+    "lib/media/bag-of-holding.jpeg",
+    "lib/media/cloak-of-evasion.png",
+    "lib/media/holy-water.png",
+    "lib/media/lantern-of-purity.jpg",
+    "lib/media/omnigod-amulet.png",
+    "lib/media/potion-of-healing-greater.png",
+    "lib/media/potion-of-healing-regular.png",
+    "lib/media/ring-of-protection.jpeg",
+    "lib/media/rope-of-entanglement.jpeg",
+    "lib/media/spyglass.png",
+    "lib/media/the-dark-urge.jpeg",
+    "lib/media/tinkertop-signet-ring.png",
+    "lib/media/vestment-of-saint-goliver.png",
+    "lib/media/wand-of-eragors-blessing.png",
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/other-plugins.css",
+    "lib/styles/theme.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/supported-plugins.css",
+    "lib/styles/main-styles.css",
+    "lib/styles/snippets.css"
+  ],
+  "mainDependencies": [
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/other-plugins.css",
+    "lib/styles/theme.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/supported-plugins.css",
+    "lib/styles/main-styles.css",
+    "lib/styles/snippets.css"
+  ],
+  "fileInfo": {
+    "Public/assets/Bag-of-Holding.jpeg": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 300571,
+      "exportedPath": "public/assets/bag-of-holding.jpeg",
+      "dependencies": []
+    },
+    "Public/assets/Beholder-adnd.webp": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 122732,
+      "exportedPath": "public/assets/beholder-adnd.webp",
+      "dependencies": []
+    },
+    "Public/assets/Cloak-of-Evasion.png": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 67026,
+      "exportedPath": "public/assets/cloak-of-evasion.png",
+      "dependencies": []
+    },
+    "Public/assets/darz.jpg.jpeg": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 272067,
+      "exportedPath": "public/assets/darz.jpg.jpeg",
+      "dependencies": []
+    },
+    "Public/assets/dozen-suns-tetovaza.jpeg": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 7380,
+      "exportedPath": "public/assets/dozen-suns-tetovaza.jpeg",
+      "dependencies": []
+    },
+    "Public/assets/Durin.jpeg": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 120678,
+      "exportedPath": "public/assets/durin.jpeg",
+      "dependencies": []
+    },
+    "Public/assets/Gundam.jpeg": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 177125,
+      "exportedPath": "public/assets/gundam.jpeg",
+      "dependencies": []
+    },
+    "Public/assets/Holy-Water.png": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 313909,
+      "exportedPath": "public/assets/holy-water.png",
+      "dependencies": []
+    },
+    "Public/assets/Lantern-of-Purity.jpg": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 4828,
+      "exportedPath": "public/assets/lantern-of-purity.jpg",
+      "dependencies": []
+    },
+    "Public/assets/Leda.jpeg": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 129188,
+      "exportedPath": "public/assets/leda.jpeg",
+      "dependencies": []
+    },
+    "Public/assets/Ledina-haljina.jpeg": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 58506,
+      "exportedPath": "public/assets/ledina-haljina.jpeg",
+      "dependencies": []
+    },
+    "Public/assets/Maxwell.jpg": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 62039,
+      "exportedPath": "public/assets/maxwell.jpg",
+      "dependencies": []
+    },
+    "Public/assets/Omnigod-Amulet.png": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 70457,
+      "exportedPath": "public/assets/omnigod-amulet.png",
+      "dependencies": []
+    },
+    "Public/assets/Planes-of-Existence.webp": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 382462,
+      "exportedPath": "public/assets/planes-of-existence.webp",
+      "dependencies": []
+    },
+    "Public/assets/Potion-of-Healing-Greater.png": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 11927,
+      "exportedPath": "public/assets/potion-of-healing-greater.png",
+      "dependencies": []
+    },
+    "Public/assets/Potion-of-Healing-Regular.png": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 10325,
+      "exportedPath": "public/assets/potion-of-healing-regular.png",
+      "dependencies": []
+    },
+    "Public/assets/Ring-of-Protection.jpeg": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 392341,
+      "exportedPath": "public/assets/ring-of-protection.jpeg",
+      "dependencies": []
+    },
+    "Public/assets/Rope-of-Entanglement.jpeg": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 386559,
+      "exportedPath": "public/assets/rope-of-entanglement.jpeg",
+      "dependencies": []
+    },
+    "Public/assets/Sebastian.png": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 1978133,
+      "exportedPath": "public/assets/sebastian.png",
+      "dependencies": []
+    },
+    "Public/assets/Spyglass.png": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 78034,
+      "exportedPath": "public/assets/spyglass.png",
+      "dependencies": []
+    },
+    "Public/assets/The-Dark-Urge.jpeg": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 3827,
+      "exportedPath": "public/assets/the-dark-urge.jpeg",
+      "dependencies": []
+    },
+    "Public/assets/Tinkertop-Signet-Ring.png": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 12806,
+      "exportedPath": "public/assets/tinkertop-signet-ring.png",
+      "dependencies": []
+    },
+    "Public/assets/Vestment-of-Saint-Goliver.png": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 50683,
+      "exportedPath": "public/assets/vestment-of-saint-goliver.png",
+      "dependencies": []
+    },
+    "Public/assets/Wand-of-Eragors-Blessing.png": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 12316,
+      "exportedPath": "public/assets/wand-of-eragors-blessing.png",
+      "dependencies": []
+    },
+    "Public/assets/Zrinka.jpeg": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 104486,
+      "exportedPath": "public/assets/zrinka.jpeg",
+      "dependencies": []
+    },
+    "Public/Dnevnik/Blagajna.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 1411,
+      "exportedPath": "public/dnevnik/blagajna.html",
+      "dependencies": []
+    },
+    "Public/Dnevnik/Durin.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 2151,
+      "exportedPath": "public/dnevnik/durin.html",
+      "dependencies": [
+        "lib/media/durin.jpeg"
+      ]
+    },
+    "Public/Dnevnik/Gundam.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 1703,
+      "exportedPath": "public/dnevnik/gundam.html",
+      "dependencies": [
+        "lib/media/gundam.jpeg"
+      ]
+    },
+    "Public/Dnevnik/Inventar.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 502,
+      "exportedPath": "public/dnevnik/inventar.html",
+      "dependencies": []
+    },
+    "Public/Dnevnik/Leda.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 2460,
+      "exportedPath": "public/dnevnik/leda.html",
+      "dependencies": [
+        "lib/media/leda.jpeg",
+        "lib/media/ledina-haljina.jpeg"
+      ]
+    },
+    "Public/Dnevnik/Maxwell.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 2148,
+      "exportedPath": "public/dnevnik/maxwell.html",
+      "dependencies": [
+        "lib/media/maxwell.jpg"
+      ]
+    },
+    "Public/Dnevnik/Misterije.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 2661,
+      "exportedPath": "public/dnevnik/misterije.html",
+      "dependencies": []
+    },
+    "Public/Dnevnik/Obaveze i Planovi.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 2874,
+      "exportedPath": "public/dnevnik/obaveze-i-planovi.html",
+      "dependencies": []
+    },
+    "Public/Dnevnik/Pravila Krađe.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 675,
+      "exportedPath": "public/dnevnik/pravila-krađe.html",
+      "dependencies": []
+    },
+    "Public/Dnevnik/Sebastian.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 2299,
+      "exportedPath": "public/dnevnik/sebastian.html",
+      "dependencies": [
+        "lib/media/sebastian.png"
+      ]
+    },
+    "Public/Dnevnik/Session 1.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 3863,
+      "exportedPath": "public/dnevnik/session-1.html",
+      "dependencies": []
+    },
+    "Public/Dnevnik/Session 2.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 3248,
+      "exportedPath": "public/dnevnik/session-2.html",
+      "dependencies": []
+    },
+    "Public/Dnevnik/Session 3.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 4152,
+      "exportedPath": "public/dnevnik/session-3.html",
+      "dependencies": []
+    },
+    "Public/Dnevnik/Session 4.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 4766,
+      "exportedPath": "public/dnevnik/session-4.html",
+      "dependencies": []
+    },
+    "Public/Dnevnik/Session 5.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 6379,
+      "exportedPath": "public/dnevnik/session-5.html",
+      "dependencies": []
+    },
+    "Public/Dnevnik/Session 6.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 4152,
+      "exportedPath": "public/dnevnik/session-6.html",
+      "dependencies": []
+    },
+    "Public/Dnevnik/Session 7.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 5626,
+      "exportedPath": "public/dnevnik/session-7.html",
+      "dependencies": []
+    },
+    "Public/Dnevnik/Session 8.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 5305,
+      "exportedPath": "public/dnevnik/session-8.html",
+      "dependencies": []
+    },
+    "Public/Dnevnik/Session 9.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 4451,
+      "exportedPath": "public/dnevnik/session-9.html",
+      "dependencies": []
+    },
+    "Public/Dnevnik/Session 10.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 5011,
+      "exportedPath": "public/dnevnik/session-10.html",
+      "dependencies": []
+    },
+    "Public/Dnevnik/Zrinka.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 141,
+      "exportedPath": "public/dnevnik/zrinka.html",
+      "dependencies": [
+        "lib/media/zrinka.jpeg"
+      ]
+    },
+    "Public/Likovi/Ankica.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 171,
+      "exportedPath": "public/likovi/ankica.html",
+      "dependencies": []
+    },
+    "Public/Likovi/Beholder.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 58,
+      "exportedPath": "public/likovi/beholder.html",
+      "dependencies": [
+        "lib/media/beholder-adnd.webp"
+      ]
+    },
+    "Public/Likovi/Bruni.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 596,
+      "exportedPath": "public/likovi/bruni.html",
+      "dependencies": []
+    },
+    "Public/Likovi/Dominik.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 365,
+      "exportedPath": "public/likovi/dominik.html",
+      "dependencies": []
+    },
+    "Public/Likovi/Dragoljub.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 319,
+      "exportedPath": "public/likovi/dragoljub.html",
+      "dependencies": []
+    },
+    "Public/Likovi/Fardo.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 859,
+      "exportedPath": "public/likovi/fardo.html",
+      "dependencies": []
+    },
+    "Public/Likovi/Furin.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 118,
+      "exportedPath": "public/likovi/furin.html",
+      "dependencies": []
+    },
+    "Public/Likovi/Garen.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 550,
+      "exportedPath": "public/likovi/garen.html",
+      "dependencies": []
+    },
+    "Public/Likovi/Gordano.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 512,
+      "exportedPath": "public/likovi/gordano.html",
+      "dependencies": []
+    },
+    "Public/Likovi/Gorge.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 209,
+      "exportedPath": "public/likovi/gorge.html",
+      "dependencies": []
+    },
+    "Public/Likovi/Grim.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 605,
+      "exportedPath": "public/likovi/grim.html",
+      "dependencies": [
+        "lib/media/dozen-suns-tetovaza.jpeg"
+      ]
+    },
+    "Public/Likovi/Grimli.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 428,
+      "exportedPath": "public/likovi/grimli.html",
+      "dependencies": []
+    },
+    "Public/Likovi/Hogg.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 584,
+      "exportedPath": "public/likovi/hogg.html",
+      "dependencies": []
+    },
+    "Public/Likovi/Jozef.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 1221,
+      "exportedPath": "public/likovi/jozef.html",
+      "dependencies": []
+    },
+    "Public/Likovi/Khinox.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 722,
+      "exportedPath": "public/likovi/khinox.html",
+      "dependencies": []
+    },
+    "Public/Likovi/Kregg Barellfist.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 584,
+      "exportedPath": "public/likovi/kregg-barellfist.html",
+      "dependencies": []
+    },
+    "Public/Likovi/Krip.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 382,
+      "exportedPath": "public/likovi/krip.html",
+      "dependencies": []
+    },
+    "Public/Likovi/Lima.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 206,
+      "exportedPath": "public/likovi/lima.html",
+      "dependencies": []
+    },
+    "Public/Likovi/Ljubica.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 377,
+      "exportedPath": "public/likovi/ljubica.html",
+      "dependencies": []
+    },
+    "Public/Likovi/Maestro Fritzfild.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 650,
+      "exportedPath": "public/likovi/maestro-fritzfild.html",
+      "dependencies": []
+    },
+    "Public/Likovi/Margareta.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 1516,
+      "exportedPath": "public/likovi/margareta.html",
+      "dependencies": []
+    },
+    "Public/Likovi/Mirza.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 313,
+      "exportedPath": "public/likovi/mirza.html",
+      "dependencies": []
+    },
+    "Public/Likovi/Oregon.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 523,
+      "exportedPath": "public/likovi/oregon.html",
+      "dependencies": []
+    },
+    "Public/Likovi/Pejo.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 1319,
+      "exportedPath": "public/likovi/pejo.html",
+      "dependencies": []
+    },
+    "Public/Likovi/Perica.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 133,
+      "exportedPath": "public/likovi/perica.html",
+      "dependencies": []
+    },
+    "Public/Likovi/Pirat Skariba.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 265,
+      "exportedPath": "public/likovi/pirat-skariba.html",
+      "dependencies": []
+    },
+    "Public/Likovi/Profesor Korbo.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 266,
+      "exportedPath": "public/likovi/profesor-korbo.html",
+      "dependencies": []
+    },
+    "Public/Likovi/Profesor Lukash.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 717,
+      "exportedPath": "public/likovi/profesor-lukash.html",
+      "dependencies": []
+    },
+    "Public/Likovi/Rakan.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 656,
+      "exportedPath": "public/likovi/rakan.html",
+      "dependencies": []
+    },
+    "Public/Likovi/Ravioli.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 697,
+      "exportedPath": "public/likovi/ravioli.html",
+      "dependencies": []
+    },
+    "Public/Likovi/Rondo.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 544,
+      "exportedPath": "public/likovi/rondo.html",
+      "dependencies": []
+    },
+    "Public/Likovi/Slavica.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 397,
+      "exportedPath": "public/likovi/slavica.html",
+      "dependencies": []
+    },
+    "Public/Likovi/Tomica.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 450,
+      "exportedPath": "public/likovi/tomica.html",
+      "dependencies": []
+    },
+    "Public/Mjesta/Ashpit.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 177,
+      "exportedPath": "public/mjesta/ashpit.html",
+      "dependencies": []
+    },
+    "Public/Mjesta/Blatokrižje.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 339,
+      "exportedPath": "public/mjesta/blatokrižje.html",
+      "dependencies": []
+    },
+    "Public/Mjesta/Bukit.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 166,
+      "exportedPath": "public/mjesta/bukit.html",
+      "dependencies": []
+    },
+    "Public/Mjesta/Coggsville.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 506,
+      "exportedPath": "public/mjesta/coggsville.html",
+      "dependencies": []
+    },
+    "Public/Mjesta/Drevna Patuljačka Knjižnica.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 941,
+      "exportedPath": "public/mjesta/drevna-patuljačka-knjižnica.html",
+      "dependencies": []
+    },
+    "Public/Mjesta/Eragorova katedrala.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 232,
+      "exportedPath": "public/mjesta/eragorova-katedrala.html",
+      "dependencies": []
+    },
+    "Public/Mjesta/Fortaare.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 240,
+      "exportedPath": "public/mjesta/fortaare.html",
+      "dependencies": []
+    },
+    "Public/Mjesta/Gondar.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 888,
+      "exportedPath": "public/mjesta/gondar.html",
+      "dependencies": []
+    },
+    "Public/Mjesta/Knjižnica u Gondaru.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 274,
+      "exportedPath": "public/mjesta/knjižnica-u-gondaru.html",
+      "dependencies": []
+    },
+    "Public/Mjesta/Little Post.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 218,
+      "exportedPath": "public/mjesta/little-post.html",
+      "dependencies": []
+    },
+    "Public/Mjesta/Lumin.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 544,
+      "exportedPath": "public/mjesta/lumin.html",
+      "dependencies": []
+    },
+    "Public/Mjesta/Magic Sex Shop.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 264,
+      "exportedPath": "public/mjesta/magic-sex-shop.html",
+      "dependencies": []
+    },
+    "Public/Mjesta/Mudland.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 267,
+      "exportedPath": "public/mjesta/mudland.html",
+      "dependencies": []
+    },
+    "Public/Mjesta/Nyn Bukit.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 271,
+      "exportedPath": "public/mjesta/nyn-bukit.html",
+      "dependencies": []
+    },
+    "Public/Mjesta/Peninsular.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 349,
+      "exportedPath": "public/mjesta/peninsular.html",
+      "dependencies": []
+    },
+    "Public/Mjesta/Quan Ma.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 309,
+      "exportedPath": "public/mjesta/quan-ma.html",
+      "dependencies": []
+    },
+    "Public/Mjesta/Rundek.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 1096,
+      "exportedPath": "public/mjesta/rundek.html",
+      "dependencies": []
+    },
+    "Public/Mjesta/Ružičnjak.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 827,
+      "exportedPath": "public/mjesta/ružičnjak.html",
+      "dependencies": []
+    },
+    "Public/Mjesta/Sapijina crkva.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 263,
+      "exportedPath": "public/mjesta/sapijina-crkva.html",
+      "dependencies": []
+    },
+    "Public/Mjesta/Široki Brijeg.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 580,
+      "exportedPath": "public/mjesta/široki-brijeg.html",
+      "dependencies": []
+    },
+    "Public/Mjesta/Škola Otvorene Magije.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 264,
+      "exportedPath": "public/mjesta/škola-otvorene-magije.html",
+      "dependencies": []
+    },
+    "Public/Mjesta/Stonehelm Hollow.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 382,
+      "exportedPath": "public/mjesta/stonehelm-hollow.html",
+      "dependencies": []
+    },
+    "Public/Mjesta/Svet Stvari.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 499,
+      "exportedPath": "public/mjesta/svet-stvari.html",
+      "dependencies": []
+    },
+    "Public/Mjesta/The Isles.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 253,
+      "exportedPath": "public/mjesta/the-isles.html",
+      "dependencies": []
+    },
+    "Public/Mjesta/Tinkertop.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 761,
+      "exportedPath": "public/mjesta/tinkertop.html",
+      "dependencies": []
+    },
+    "Public/Mjesta/Tinkertop Mlin.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 586,
+      "exportedPath": "public/mjesta/tinkertop-mlin.html",
+      "dependencies": []
+    },
+    "Public/Mjesta/Veli Pijuk.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 293,
+      "exportedPath": "public/mjesta/veli-pijuk.html",
+      "dependencies": []
+    },
+    "Public/Mjesta/Veliki Krč.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 217,
+      "exportedPath": "public/mjesta/veliki-krč.html",
+      "dependencies": []
+    },
+    "Public/Mjesta/Žulj i Mulj.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 103,
+      "exportedPath": "public/mjesta/žulj-i-mulj.html",
+      "dependencies": []
+    },
+    "Public/Mjesta/Žuta Lokva.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 156,
+      "exportedPath": "public/mjesta/žuta-lokva.html",
+      "dependencies": []
+    },
+    "Public/Organizacije/Dozen Sons.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 600,
+      "exportedPath": "public/organizacije/dozen-sons.html",
+      "dependencies": [
+        "lib/media/dozen-suns-tetovaza.jpeg"
+      ]
+    },
+    "Public/Organizacije/EOME kultisti.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 1732,
+      "exportedPath": "public/organizacije/eome-kultisti.html",
+      "dependencies": []
+    },
+    "Public/Organizacije/Flyer.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 255,
+      "exportedPath": "public/organizacije/flyer.html",
+      "dependencies": []
+    },
+    "Public/Organizacije/Stoneborn.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 692,
+      "exportedPath": "public/organizacije/stoneborn.html",
+      "dependencies": []
+    },
+    "Public/Pravila/Aura of Purity.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 759,
+      "exportedPath": "public/pravila/aura-of-purity.html",
+      "dependencies": []
+    },
+    "Public/Pravila/Bless.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 799,
+      "exportedPath": "public/pravila/bless.html",
+      "dependencies": []
+    },
+    "Public/Pravila/Blinded.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 258,
+      "exportedPath": "public/pravila/blinded.html",
+      "dependencies": []
+    },
+    "Public/Pravila/Catapult.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 988,
+      "exportedPath": "public/pravila/catapult.html",
+      "dependencies": []
+    },
+    "Public/Pravila/Charmed.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 260,
+      "exportedPath": "public/pravila/charmed.html",
+      "dependencies": []
+    },
+    "Public/Pravila/Deafened.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 159,
+      "exportedPath": "public/pravila/deafened.html",
+      "dependencies": []
+    },
+    "Public/Pravila/Fly.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 693,
+      "exportedPath": "public/pravila/fly.html",
+      "dependencies": []
+    },
+    "Public/Pravila/Incapacitated.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 127,
+      "exportedPath": "public/pravila/incapacitated.html",
+      "dependencies": []
+    },
+    "Public/Pravila/Lesser Restoration.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 440,
+      "exportedPath": "public/pravila/lesser-restoration.html",
+      "dependencies": []
+    },
+    "Public/Pravila/Paralyzed.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 380,
+      "exportedPath": "public/pravila/paralyzed.html",
+      "dependencies": []
+    },
+    "Public/Pravila/Poisoned.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 136,
+      "exportedPath": "public/pravila/poisoned.html",
+      "dependencies": []
+    },
+    "Public/Pravila/Restrained.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 319,
+      "exportedPath": "public/pravila/restrained.html",
+      "dependencies": []
+    },
+    "Public/Predaja/Accra.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 107,
+      "exportedPath": "public/predaja/accra.html",
+      "dependencies": []
+    },
+    "Public/Predaja/Akko.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 126,
+      "exportedPath": "public/predaja/akko.html",
+      "dependencies": []
+    },
+    "Public/Predaja/Astralni Plane.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 459,
+      "exportedPath": "public/predaja/astralni-plane.html",
+      "dependencies": []
+    },
+    "Public/Predaja/Black Blessing.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 712,
+      "exportedPath": "public/predaja/black-blessing.html",
+      "dependencies": []
+    },
+    "Public/Predaja/Black Fang.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 223,
+      "exportedPath": "public/predaja/black-fang.html",
+      "dependencies": []
+    },
+    "Public/Predaja/Capita.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 253,
+      "exportedPath": "public/predaja/capita.html",
+      "dependencies": []
+    },
+    "Public/Predaja/Carstvo Numeria.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 1229,
+      "exportedPath": "public/predaja/carstvo-numeria.html",
+      "dependencies": []
+    },
+    "Public/Predaja/Darz.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 1700,
+      "exportedPath": "public/predaja/darz.html",
+      "dependencies": [
+        "lib/media/darz.jpg.jpeg"
+      ]
+    },
+    "Public/Predaja/Darzahar.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 608,
+      "exportedPath": "public/predaja/darzahar.html",
+      "dependencies": []
+    },
+    "Public/Predaja/Duergar.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 167,
+      "exportedPath": "public/predaja/duergar.html",
+      "dependencies": []
+    },
+    "Public/Predaja/Eragor.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 208,
+      "exportedPath": "public/predaja/eragor.html",
+      "dependencies": []
+    },
+    "Public/Predaja/Flatter.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 201,
+      "exportedPath": "public/predaja/flatter.html",
+      "dependencies": []
+    },
+    "Public/Predaja/Gea.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 96,
+      "exportedPath": "public/predaja/gea.html",
+      "dependencies": []
+    },
+    "Public/Predaja/Gn'dair.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 340,
+      "exportedPath": "public/predaja/gn'dair.html",
+      "dependencies": []
+    },
+    "Public/Predaja/Goldenleaf.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 140,
+      "exportedPath": "public/predaja/goldenleaf.html",
+      "dependencies": []
+    },
+    "Public/Predaja/Goliver.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 724,
+      "exportedPath": "public/predaja/goliver.html",
+      "dependencies": []
+    },
+    "Public/Predaja/Marion Lotus.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 355,
+      "exportedPath": "public/predaja/marion-lotus.html",
+      "dependencies": []
+    },
+    "Public/Predaja/Middlegate.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 329,
+      "exportedPath": "public/predaja/middlegate.html",
+      "dependencies": []
+    },
+    "Public/Predaja/Morynea.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 171,
+      "exportedPath": "public/predaja/morynea.html",
+      "dependencies": []
+    },
+    "Public/Predaja/New Darz.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 182,
+      "exportedPath": "public/predaja/new-darz.html",
+      "dependencies": []
+    },
+    "Public/Predaja/Northfall.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 289,
+      "exportedPath": "public/predaja/northfall.html",
+      "dependencies": []
+    },
+    "Public/Predaja/Obbo.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 221,
+      "exportedPath": "public/predaja/obbo.html",
+      "dependencies": []
+    },
+    "Public/Predaja/Obitelj Lotus.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 257,
+      "exportedPath": "public/predaja/obitelj-lotus.html",
+      "dependencies": []
+    },
+    "Public/Predaja/Olus.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 247,
+      "exportedPath": "public/predaja/olus.html",
+      "dependencies": []
+    },
+    "Public/Predaja/Olusus.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 211,
+      "exportedPath": "public/predaja/olusus.html",
+      "dependencies": []
+    },
+    "Public/Predaja/Planes of Existence.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 78,
+      "exportedPath": "public/predaja/planes-of-existence.html",
+      "dependencies": [
+        "lib/media/planes-of-existence.webp"
+      ]
+    },
+    "Public/Predaja/Pobuna patuljaka.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 716,
+      "exportedPath": "public/predaja/pobuna-patuljaka.html",
+      "dependencies": []
+    },
+    "Public/Predaja/Pobuna sjevera.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 1332,
+      "exportedPath": "public/predaja/pobuna-sjevera.html",
+      "dependencies": []
+    },
+    "Public/Predaja/Pobuna zapada.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 430,
+      "exportedPath": "public/predaja/pobuna-zapada.html",
+      "dependencies": []
+    },
+    "Public/Predaja/Radeon II Lotus.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 691,
+      "exportedPath": "public/predaja/radeon-ii-lotus.html",
+      "dependencies": []
+    },
+    "Public/Predaja/Retrospektiva.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 644,
+      "exportedPath": "public/predaja/retrospektiva.html",
+      "dependencies": []
+    },
+    "Public/Predaja/Rurik Mudbeard.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 124,
+      "exportedPath": "public/predaja/rurik-mudbeard.html",
+      "dependencies": []
+    },
+    "Public/Predaja/Sapia.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 226,
+      "exportedPath": "public/predaja/sapia.html",
+      "dependencies": []
+    },
+    "Public/Predaja/Sirio Talon.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 148,
+      "exportedPath": "public/predaja/sirio-talon.html",
+      "dependencies": []
+    },
+    "Public/Predaja/Soron the Dragonslayer.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 158,
+      "exportedPath": "public/predaja/soron-the-dragonslayer.html",
+      "dependencies": []
+    },
+    "Public/Predaja/Tarr Bonemare.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 343,
+      "exportedPath": "public/predaja/tarr-bonemare.html",
+      "dependencies": []
+    },
+    "Public/Predaja/Terra Dos.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 303,
+      "exportedPath": "public/predaja/terra-dos.html",
+      "dependencies": []
+    },
+    "Public/Predaja/Tok.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 96,
+      "exportedPath": "public/predaja/tok.html",
+      "dependencies": []
+    },
+    "Public/Predaja/True Darazians.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 160,
+      "exportedPath": "public/predaja/true-darazians.html",
+      "dependencies": []
+    },
+    "Public/Predaja/Veliki Rat.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 744,
+      "exportedPath": "public/predaja/veliki-rat.html",
+      "dependencies": []
+    },
+    "Public/Predaja/Wetland.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 200,
+      "exportedPath": "public/predaja/wetland.html",
+      "dependencies": []
+    },
+    "Public/Predaja/Xor.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 291,
+      "exportedPath": "public/predaja/xor.html",
+      "dependencies": []
+    },
+    "Public/Predaja/Xorrax.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 208,
+      "exportedPath": "public/predaja/xorrax.html",
+      "dependencies": []
+    },
+    "Public/Predaja/Yugul.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 552,
+      "exportedPath": "public/predaja/yugul.html",
+      "dependencies": []
+    },
+    "Public/Predmeti/Bag of Holding.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 1451,
+      "exportedPath": "public/predmeti/bag-of-holding.html",
+      "dependencies": [
+        "lib/media/bag-of-holding.jpeg"
+      ]
+    },
+    "Public/Predmeti/Cloak of Evasion.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 806,
+      "exportedPath": "public/predmeti/cloak-of-evasion.html",
+      "dependencies": [
+        "lib/media/cloak-of-evasion.png"
+      ]
+    },
+    "Public/Predmeti/Holy Water.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 946,
+      "exportedPath": "public/predmeti/holy-water.html",
+      "dependencies": [
+        "lib/media/holy-water.png"
+      ]
+    },
+    "Public/Predmeti/Lantern of Purity.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 1259,
+      "exportedPath": "public/predmeti/lantern-of-purity.html",
+      "dependencies": [
+        "lib/media/lantern-of-purity.jpg"
+      ]
+    },
+    "Public/Predmeti/Omnigod Amulet.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 875,
+      "exportedPath": "public/predmeti/omnigod-amulet.html",
+      "dependencies": [
+        "lib/media/omnigod-amulet.png"
+      ]
+    },
+    "Public/Predmeti/Potion of Healing (Greater).md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 484,
+      "exportedPath": "public/predmeti/potion-of-healing-(greater).html",
+      "dependencies": [
+        "lib/media/potion-of-healing-greater.png"
+      ]
+    },
+    "Public/Predmeti/Potion of Healing (Regular).md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 505,
+      "exportedPath": "public/predmeti/potion-of-healing-(regular).html",
+      "dependencies": [
+        "lib/media/potion-of-healing-regular.png"
+      ]
+    },
+    "Public/Predmeti/Prvi Plamen.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 266,
+      "exportedPath": "public/predmeti/prvi-plamen.html",
+      "dependencies": []
+    },
+    "Public/Predmeti/Repeating Shot.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 746,
+      "exportedPath": "public/predmeti/repeating-shot.html",
+      "dependencies": []
+    },
+    "Public/Predmeti/Ring of Protection.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 293,
+      "exportedPath": "public/predmeti/ring-of-protection.html",
+      "dependencies": [
+        "lib/media/ring-of-protection.jpeg"
+      ]
+    },
+    "Public/Predmeti/Rope of Consensual Entanglement.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 780,
+      "exportedPath": "public/predmeti/rope-of-consensual-entanglement.html",
+      "dependencies": [
+        "lib/media/rope-of-entanglement.jpeg"
+      ]
+    },
+    "Public/Predmeti/Spell Refueling Ring.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 514,
+      "exportedPath": "public/predmeti/spell-refueling-ring.html",
+      "dependencies": []
+    },
+    "Public/Predmeti/Spyglass.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 407,
+      "exportedPath": "public/predmeti/spyglass.html",
+      "dependencies": [
+        "lib/media/spyglass.png"
+      ]
+    },
+    "Public/Predmeti/The Dark Urge.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 1958,
+      "exportedPath": "public/predmeti/the-dark-urge.html",
+      "dependencies": [
+        "lib/media/the-dark-urge.jpeg"
+      ]
+    },
+    "Public/Predmeti/Tinkertop Signet Ring.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 595,
+      "exportedPath": "public/predmeti/tinkertop-signet-ring.html",
+      "dependencies": [
+        "lib/media/tinkertop-signet-ring.png"
+      ]
+    },
+    "Public/Predmeti/Vestment of Saint Goliver.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 869,
+      "exportedPath": "public/predmeti/vestment-of-saint-goliver.html",
+      "dependencies": [
+        "lib/media/vestment-of-saint-goliver.png"
+      ]
+    },
+    "Public/Predmeti/Wand of Eragor's Blessing.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 984,
+      "exportedPath": "public/predmeti/wand-of-eragor's-blessing.html",
+      "dependencies": [
+        "lib/media/wand-of-eragors-blessing.png"
+      ]
+    },
+    "index.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 519,
+      "exportedPath": "index.html",
+      "dependencies": []
+    },
+    "lib/media/durin.jpeg": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 120678,
+      "exportedPath": "lib/media/durin.jpeg",
+      "dependencies": []
+    },
+    "lib/media/gundam.jpeg": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 177125,
+      "exportedPath": "lib/media/gundam.jpeg",
+      "dependencies": []
+    },
+    "lib/media/leda.jpeg": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 129188,
+      "exportedPath": "lib/media/leda.jpeg",
+      "dependencies": []
+    },
+    "lib/media/ledina-haljina.jpeg": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 58506,
+      "exportedPath": "lib/media/ledina-haljina.jpeg",
+      "dependencies": []
+    },
+    "lib/media/maxwell.jpg": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 62039,
+      "exportedPath": "lib/media/maxwell.jpg",
+      "dependencies": []
+    },
+    "lib/media/sebastian.png": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 1978133,
+      "exportedPath": "lib/media/sebastian.png",
+      "dependencies": []
+    },
+    "lib/media/zrinka.jpeg": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 104486,
+      "exportedPath": "lib/media/zrinka.jpeg",
+      "dependencies": []
+    },
+    "lib/media/beholder-adnd.webp": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 122732,
+      "exportedPath": "lib/media/beholder-adnd.webp",
+      "dependencies": []
+    },
+    "lib/media/dozen-suns-tetovaza.jpeg": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 7380,
+      "exportedPath": "lib/media/dozen-suns-tetovaza.jpeg",
+      "dependencies": []
+    },
+    "lib/media/darz.jpg.jpeg": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 272067,
+      "exportedPath": "lib/media/darz.jpg.jpeg",
+      "dependencies": []
+    },
+    "lib/media/planes-of-existence.webp": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 382462,
+      "exportedPath": "lib/media/planes-of-existence.webp",
+      "dependencies": []
+    },
+    "lib/media/bag-of-holding.jpeg": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 300571,
+      "exportedPath": "lib/media/bag-of-holding.jpeg",
+      "dependencies": []
+    },
+    "lib/media/cloak-of-evasion.png": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 67026,
+      "exportedPath": "lib/media/cloak-of-evasion.png",
+      "dependencies": []
+    },
+    "lib/media/holy-water.png": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 313909,
+      "exportedPath": "lib/media/holy-water.png",
+      "dependencies": []
+    },
+    "lib/media/lantern-of-purity.jpg": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 4828,
+      "exportedPath": "lib/media/lantern-of-purity.jpg",
+      "dependencies": []
+    },
+    "lib/media/omnigod-amulet.png": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 70457,
+      "exportedPath": "lib/media/omnigod-amulet.png",
+      "dependencies": []
+    },
+    "lib/media/potion-of-healing-greater.png": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 11927,
+      "exportedPath": "lib/media/potion-of-healing-greater.png",
+      "dependencies": []
+    },
+    "lib/media/potion-of-healing-regular.png": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 10325,
+      "exportedPath": "lib/media/potion-of-healing-regular.png",
+      "dependencies": []
+    },
+    "lib/media/ring-of-protection.jpeg": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 392341,
+      "exportedPath": "lib/media/ring-of-protection.jpeg",
+      "dependencies": []
+    },
+    "lib/media/rope-of-entanglement.jpeg": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 386559,
+      "exportedPath": "lib/media/rope-of-entanglement.jpeg",
+      "dependencies": []
+    },
+    "lib/media/spyglass.png": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 78034,
+      "exportedPath": "lib/media/spyglass.png",
+      "dependencies": []
+    },
+    "lib/media/the-dark-urge.jpeg": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 3827,
+      "exportedPath": "lib/media/the-dark-urge.jpeg",
+      "dependencies": []
+    },
+    "lib/media/tinkertop-signet-ring.png": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 12806,
+      "exportedPath": "lib/media/tinkertop-signet-ring.png",
+      "dependencies": []
+    },
+    "lib/media/vestment-of-saint-goliver.png": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 50683,
+      "exportedPath": "lib/media/vestment-of-saint-goliver.png",
+      "dependencies": []
+    },
+    "lib/media/wand-of-eragors-blessing.png": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 12316,
+      "exportedPath": "lib/media/wand-of-eragors-blessing.png",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.wasm": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 23377,
+      "exportedPath": "lib/scripts/graph-wasm.wasm",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/874d8b8e340f75575caa.svg": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 317,
+      "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
+      "dependencies": []
+    },
+    "lib/html/file-tree.html": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 148455,
+      "exportedPath": "lib/html/file-tree.html",
+      "dependencies": []
+    },
+    "lib/scripts/webpage.js": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 47290,
+      "exportedPath": "lib/scripts/webpage.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-view.js": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 15519,
+      "exportedPath": "lib/scripts/graph-view.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.js": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 14021,
+      "exportedPath": "lib/scripts/graph-wasm.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-render-worker.js": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 5179,
+      "exportedPath": "lib/scripts/graph-render-worker.js",
+      "dependencies": []
+    },
+    "lib/scripts/tinycolor.js": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 29832,
+      "exportedPath": "lib/scripts/tinycolor.js",
+      "dependencies": []
+    },
+    "lib/scripts/pixi.js": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 449509,
+      "exportedPath": "lib/scripts/pixi.js",
+      "dependencies": []
+    },
+    "lib/scripts/minisearch.js": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 29422,
+      "exportedPath": "lib/scripts/minisearch.js",
+      "dependencies": []
+    },
+    "lib/media/favicon.png": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 1105,
+      "exportedPath": "lib/media/favicon.png",
+      "dependencies": []
+    },
+    "lib/scripts/graph-data.js": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 14496,
+      "exportedPath": "lib/scripts/graph-data.js",
+      "dependencies": []
+    },
+    "lib/styles/obsidian.css": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 141463,
+      "exportedPath": "lib/styles/obsidian.css",
+      "dependencies": []
+    },
+    "lib/styles/other-plugins.css": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 2104,
+      "exportedPath": "lib/styles/other-plugins.css",
+      "dependencies": []
+    },
+    "lib/styles/theme.css": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 258943,
+      "exportedPath": "lib/styles/theme.css",
+      "dependencies": []
+    },
+    "lib/styles/global-variable-styles.css": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 236,
+      "exportedPath": "lib/styles/global-variable-styles.css",
+      "dependencies": []
+    },
+    "lib/styles/supported-plugins.css": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 224,
+      "exportedPath": "lib/styles/supported-plugins.css",
+      "dependencies": []
+    },
+    "lib/styles/main-styles.css": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 23130,
+      "exportedPath": "lib/styles/main-styles.css",
+      "dependencies": []
+    },
+    "lib/styles/snippets.css": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 22346,
+      "exportedPath": "lib/styles/snippets.css",
+      "dependencies": []
+    },
+    "scripts/frontmatter.js.md": {
+      "modifiedTime": 1708468979953,
+      "sourceSize": 269,
+      "exportedPath": "scripts/frontmatter.js.html",
+      "dependencies": []
+    }
+  }
+}
