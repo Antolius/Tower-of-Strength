@@ -1,7 +1,7 @@
 {
   "vaultName": "Tower of Strength D&D kampanja",
-  "lastExport": 1709504223418,
-  "pluginVersion": "1.8.0",
+  "lastExport": 1710345735056,
+  "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-light ctp-latte ctp-frappe ctp-accent-light-lavender ctp-accent-lavender anuppuccin-accent-toggle anp-current-line-border anp-custom-checkboxes anp-speech-bubble anp-codeblock-numbers anp-list-toggle anp-table-toggle anp-button-metadata-toggle anp-h1-red anp-h2-peach anp-h3-green anp-h4-teal anp-h5-lavender anp-h6-mauve anp-decoration-toggle anp-bold-flamingo anp-italic-teal anp-highlight-sapphire anp-canvas-dark-bg anp-collapse-folders anp-file-icons anp-full-rainbow-color-toggle anp-rainbow-file-toggle anp-full-rainbow-text-color-toggle-light anp-full-rainbow-text-color-toggle-dark anp-simple-rainbow-title-toggle anp-simple-rainbow-icon-folder-toggle anp-simple-rainbow-indentation-toggle anp-simple-rainbow-collapse-toggle anp-simple-rainbow-icon-toggle anp-rainbow-subfolder-color-toggle anp-card-layout anp-bg-fix anp-hide-borders anp-card-shadows anp-card-layout-actions anp-card-layout-filebrowser anp-theme-ext-light ctp-atom-light ctp-nord-dark",
   "useCustomHeadContent": false,
   "useCustomFavicon": false,
@@ -53,6 +53,7 @@
     "Public/Dnevnik/Session 9.md",
     "Public/Dnevnik/Session 10.md",
     "Public/Dnevnik/Session 11.md",
+    "Public/Dnevnik/Session 12.md",
     "Public/Dnevnik/Zrinka.md",
     "Public/Likovi/Ankica.md",
     "Public/Likovi/Beholder.md",
@@ -60,18 +61,18 @@
     "Public/Likovi/car Lionel III..md",
     "Public/Likovi/Dominik.md",
     "Public/Likovi/Dragoljub.md",
-    "Public/Likovi/Fardo.md",
     "Public/Likovi/Furin.md",
     "Public/Likovi/Garen.md",
     "Public/Likovi/Gordano.md",
-    "Public/Likovi/Gorge.md",
     "Public/Likovi/Grim.md",
     "Public/Likovi/Grimli.md",
+    "Public/Likovi/High Pastor Gorge.md",
     "Public/Likovi/Hogg.md",
     "Public/Likovi/Jozef.md",
     "Public/Likovi/Khinox.md",
     "Public/Likovi/Kregg Barellfist.md",
     "Public/Likovi/Kripp.md",
+    "Public/Likovi/Lerit Fardo.md",
     "Public/Likovi/Lima.md",
     "Public/Likovi/Ljubica.md",
     "Public/Likovi/Maestro Fritzwild.md",
@@ -79,13 +80,15 @@
     "Public/Likovi/Mirza.md",
     "Public/Likovi/narednik Beggor Fireforge.md",
     "Public/Likovi/Oregon.md",
+    "Public/Likovi/Pape.md",
     "Public/Likovi/Pejo.md",
     "Public/Likovi/Perica.md",
     "Public/Likovi/Pirat Skariba.md",
+    "Public/Likovi/Poručnik Gorge.md",
     "Public/Likovi/Profesor Korbo.md",
     "Public/Likovi/Profesor Lukash.md",
+    "Public/Likovi/Profesorica Rita.md",
     "Public/Likovi/Puggy.md",
-    "Public/Likovi/pukovnik Gorge.md",
     "Public/Likovi/Rakan.md",
     "Public/Likovi/Ravioli.md",
     "Public/Likovi/Rondo.md",
@@ -135,6 +138,7 @@
     "Public/Pravila/Fly.md",
     "Public/Pravila/Incapacitated.md",
     "Public/Pravila/Lesser Restoration.md",
+    "Public/Pravila/Magic Jar.md",
     "Public/Pravila/Paralyzed.md",
     "Public/Pravila/Poisoned.md",
     "Public/Pravila/Restrained.md",
@@ -187,12 +191,14 @@
     "Public/Predmeti/Holy Water.md",
     "Public/Predmeti/Lantern of Purity.md",
     "Public/Predmeti/Omnigod Amulet.md",
+    "Public/Predmeti/Potion of Enlarge Reduce Penis.md",
     "Public/Predmeti/Potion of Healing (Greater).md",
     "Public/Predmeti/Potion of Healing (Regular).md",
     "Public/Predmeti/Prvi Plamen.md",
     "Public/Predmeti/Repeating Shot.md",
     "Public/Predmeti/Ring of Protection.md",
     "Public/Predmeti/Rope of Consensual Entanglement.md",
+    "Public/Predmeti/Scroll of Mage Dildo.md",
     "Public/Predmeti/Spell Refueling Ring.md",
     "Public/Predmeti/Spyglass.md",
     "Public/Predmeti/The Dark Urge.md",
@@ -233,1359 +239,1287 @@
   ],
   "fileInfo": {
     "Public/assets/Bag-of-Holding.jpeg": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 300571,
       "exportedPath": "Public/assets/Bag-of-Holding.jpeg",
       "dependencies": []
     },
     "Public/assets/Beholder-adnd.webp": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 122732,
       "exportedPath": "Public/assets/Beholder-adnd.webp",
       "dependencies": []
     },
     "Public/assets/Cloak-of-Evasion.png": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 67026,
       "exportedPath": "Public/assets/Cloak-of-Evasion.png",
       "dependencies": []
     },
     "Public/assets/darz.jpg.jpeg": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 272067,
       "exportedPath": "Public/assets/darz.jpg.jpeg",
       "dependencies": []
     },
     "Public/assets/dozen-suns-tetovaza.jpeg": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 7380,
       "exportedPath": "Public/assets/dozen-suns-tetovaza.jpeg",
       "dependencies": []
     },
     "Public/assets/Durin.jpeg": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 120678,
       "exportedPath": "Public/assets/Durin.jpeg",
       "dependencies": []
     },
     "Public/assets/Gundam.jpeg": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 177125,
       "exportedPath": "Public/assets/Gundam.jpeg",
       "dependencies": []
     },
     "Public/assets/Holy-Water.png": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 313909,
       "exportedPath": "Public/assets/Holy-Water.png",
       "dependencies": []
     },
     "Public/assets/Lantern-of-Purity.jpg": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 4828,
       "exportedPath": "Public/assets/Lantern-of-Purity.jpg",
       "dependencies": []
     },
     "Public/assets/Leda.jpeg": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 129188,
       "exportedPath": "Public/assets/Leda.jpeg",
       "dependencies": []
     },
     "Public/assets/Ledina-haljina.jpeg": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 58506,
       "exportedPath": "Public/assets/Ledina-haljina.jpeg",
       "dependencies": []
     },
     "Public/assets/Maxwell.jpg": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 62039,
       "exportedPath": "Public/assets/Maxwell.jpg",
       "dependencies": []
     },
     "Public/assets/Omnigod-Amulet.png": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 70457,
       "exportedPath": "Public/assets/Omnigod-Amulet.png",
       "dependencies": []
     },
     "Public/assets/Planes-of-Existence.webp": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 382462,
       "exportedPath": "Public/assets/Planes-of-Existence.webp",
       "dependencies": []
     },
     "Public/assets/Potion-of-Healing-Greater.png": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 11927,
       "exportedPath": "Public/assets/Potion-of-Healing-Greater.png",
       "dependencies": []
     },
     "Public/assets/Potion-of-Healing-Regular.png": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 10325,
       "exportedPath": "Public/assets/Potion-of-Healing-Regular.png",
       "dependencies": []
     },
+    "Public/assets/Puggy.jpg": {
+      "modifiedTime": 1710345735056,
+      "sourceSize": 197336,
+      "exportedPath": "Public/assets/Puggy.jpg",
+      "dependencies": []
+    },
     "Public/assets/Ring-of-Protection.jpeg": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 392341,
       "exportedPath": "Public/assets/Ring-of-Protection.jpeg",
       "dependencies": []
     },
     "Public/assets/Rope-of-Entanglement.jpeg": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 386559,
       "exportedPath": "Public/assets/Rope-of-Entanglement.jpeg",
       "dependencies": []
     },
     "Public/assets/Sebastian.png": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 1978133,
       "exportedPath": "Public/assets/Sebastian.png",
       "dependencies": []
     },
     "Public/assets/Spyglass.png": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 78034,
       "exportedPath": "Public/assets/Spyglass.png",
       "dependencies": []
     },
     "Public/assets/The-Dark-Urge.jpeg": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 3827,
       "exportedPath": "Public/assets/The-Dark-Urge.jpeg",
       "dependencies": []
     },
     "Public/assets/Tinkertop-Signet-Ring.png": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 12806,
       "exportedPath": "Public/assets/Tinkertop-Signet-Ring.png",
       "dependencies": []
     },
     "Public/assets/Vestment-of-Saint-Goliver.png": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 50683,
       "exportedPath": "Public/assets/Vestment-of-Saint-Goliver.png",
       "dependencies": []
     },
     "Public/assets/Wand-of-Eragors-Blessing.png": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 12316,
       "exportedPath": "Public/assets/Wand-of-Eragors-Blessing.png",
       "dependencies": []
     },
     "Public/assets/Zrinka.jpeg": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 104486,
       "exportedPath": "Public/assets/Zrinka.jpeg",
       "dependencies": []
     },
     "Public/Dnevnik/Blagajna.md": {
-      "modifiedTime": 1709504223418,
-      "sourceSize": 1411,
+      "modifiedTime": 1710345735056,
+      "sourceSize": 1681,
       "exportedPath": "Public/Dnevnik/Blagajna.html",
       "dependencies": []
     },
     "Public/Dnevnik/Durin.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 2151,
       "exportedPath": "Public/Dnevnik/Durin.html",
       "dependencies": []
     },
     "Public/Dnevnik/Gundam.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 1703,
       "exportedPath": "Public/Dnevnik/Gundam.html",
       "dependencies": []
     },
     "Public/Dnevnik/Inventar.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 502,
       "exportedPath": "Public/Dnevnik/Inventar.html",
       "dependencies": []
     },
     "Public/Dnevnik/Leda.md": {
-      "modifiedTime": 1709504223418,
-      "sourceSize": 2460,
+      "modifiedTime": 1710345735056,
+      "sourceSize": 2682,
       "exportedPath": "Public/Dnevnik/Leda.html",
       "dependencies": []
     },
     "Public/Dnevnik/Maxwell.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 2214,
       "exportedPath": "Public/Dnevnik/Maxwell.html",
       "dependencies": []
     },
     "Public/Dnevnik/Misterije.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 2821,
       "exportedPath": "Public/Dnevnik/Misterije.html",
       "dependencies": []
     },
     "Public/Dnevnik/Obaveze i Planovi.md": {
-      "modifiedTime": 1709504223418,
-      "sourceSize": 2875,
+      "modifiedTime": 1710345735056,
+      "sourceSize": 2881,
       "exportedPath": "Public/Dnevnik/Obaveze i Planovi.html",
       "dependencies": []
     },
     "Public/Dnevnik/Pravila Krađe.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 675,
       "exportedPath": "Public/Dnevnik/Pravila Krađe.html",
       "dependencies": []
     },
     "Public/Dnevnik/Sebastian.md": {
-      "modifiedTime": 1709504223418,
-      "sourceSize": 2448,
+      "modifiedTime": 1710345735056,
+      "sourceSize": 2576,
       "exportedPath": "Public/Dnevnik/Sebastian.html",
       "dependencies": []
     },
     "Public/Dnevnik/Session 1.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 3863,
       "exportedPath": "Public/Dnevnik/Session 1.html",
       "dependencies": []
     },
     "Public/Dnevnik/Session 2.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 3248,
       "exportedPath": "Public/Dnevnik/Session 2.html",
       "dependencies": []
     },
     "Public/Dnevnik/Session 3.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 4152,
       "exportedPath": "Public/Dnevnik/Session 3.html",
       "dependencies": []
     },
     "Public/Dnevnik/Session 4.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 4766,
       "exportedPath": "Public/Dnevnik/Session 4.html",
       "dependencies": []
     },
     "Public/Dnevnik/Session 5.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 6379,
       "exportedPath": "Public/Dnevnik/Session 5.html",
       "dependencies": []
     },
     "Public/Dnevnik/Session 6.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 4152,
       "exportedPath": "Public/Dnevnik/Session 6.html",
       "dependencies": []
     },
     "Public/Dnevnik/Session 7.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 5626,
       "exportedPath": "Public/Dnevnik/Session 7.html",
       "dependencies": []
     },
     "Public/Dnevnik/Session 8.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 5305,
       "exportedPath": "Public/Dnevnik/Session 8.html",
       "dependencies": []
     },
     "Public/Dnevnik/Session 9.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 4451,
       "exportedPath": "Public/Dnevnik/Session 9.html",
       "dependencies": []
     },
     "Public/Dnevnik/Session 10.md": {
-      "modifiedTime": 1709504223418,
-      "sourceSize": 5019,
+      "modifiedTime": 1710345735056,
+      "sourceSize": 5037,
       "exportedPath": "Public/Dnevnik/Session 10.html",
       "dependencies": []
     },
+    "Public/Dnevnik/Session 11.md": {
+      "modifiedTime": 1710345735056,
+      "sourceSize": 5449,
+      "exportedPath": "Public/Dnevnik/Session 11.html",
+      "dependencies": []
+    },
+    "Public/Dnevnik/Session 12.md": {
+      "modifiedTime": 1710345735056,
+      "sourceSize": 5207,
+      "exportedPath": "Public/Dnevnik/Session 12.html",
+      "dependencies": []
+    },
     "Public/Dnevnik/Zrinka.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 141,
       "exportedPath": "Public/Dnevnik/Zrinka.html",
       "dependencies": []
     },
     "Public/Likovi/Ankica.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 171,
       "exportedPath": "Public/Likovi/Ankica.html",
       "dependencies": []
     },
     "Public/Likovi/Beholder.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 58,
       "exportedPath": "Public/Likovi/Beholder.html",
       "dependencies": []
     },
     "Public/Likovi/Bruni.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 596,
       "exportedPath": "Public/Likovi/Bruni.html",
       "dependencies": []
     },
+    "Public/Likovi/car Lionel III..md": {
+      "modifiedTime": 1710345735056,
+      "sourceSize": 359,
+      "exportedPath": "Public/Likovi/car Lionel III..html",
+      "dependencies": []
+    },
     "Public/Likovi/Dominik.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 410,
       "exportedPath": "Public/Likovi/Dominik.html",
       "dependencies": []
     },
     "Public/Likovi/Dragoljub.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 319,
       "exportedPath": "Public/Likovi/Dragoljub.html",
       "dependencies": []
     },
-    "Public/Likovi/Fardo.md": {
-      "modifiedTime": 1709504223418,
-      "sourceSize": 859,
-      "exportedPath": "Public/Likovi/Fardo.html",
-      "dependencies": []
-    },
     "Public/Likovi/Furin.md": {
-      "modifiedTime": 1709504223418,
-      "sourceSize": 118,
+      "modifiedTime": 1710345735056,
+      "sourceSize": 124,
       "exportedPath": "Public/Likovi/Furin.html",
       "dependencies": []
     },
     "Public/Likovi/Garen.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 550,
       "exportedPath": "Public/Likovi/Garen.html",
       "dependencies": []
     },
     "Public/Likovi/Gordano.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 512,
       "exportedPath": "Public/Likovi/Gordano.html",
       "dependencies": []
     },
-    "Public/Likovi/Gorge.md": {
-      "modifiedTime": 1709504223418,
-      "sourceSize": 209,
-      "exportedPath": "Public/Likovi/Gorge.html",
-      "dependencies": []
-    },
     "Public/Likovi/Grim.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 605,
       "exportedPath": "Public/Likovi/Grim.html",
       "dependencies": []
     },
     "Public/Likovi/Grimli.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 428,
       "exportedPath": "Public/Likovi/Grimli.html",
       "dependencies": []
     },
+    "Public/Likovi/High Pastor Gorge.md": {
+      "modifiedTime": 1710345735056,
+      "sourceSize": 209,
+      "exportedPath": "Public/Likovi/High Pastor Gorge.html",
+      "dependencies": []
+    },
     "Public/Likovi/Hogg.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 584,
       "exportedPath": "Public/Likovi/Hogg.html",
       "dependencies": []
     },
     "Public/Likovi/Jozef.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 1221,
       "exportedPath": "Public/Likovi/Jozef.html",
       "dependencies": []
     },
     "Public/Likovi/Khinox.md": {
-      "modifiedTime": 1709504223418,
-      "sourceSize": 722,
+      "modifiedTime": 1710345735056,
+      "sourceSize": 1049,
       "exportedPath": "Public/Likovi/Khinox.html",
       "dependencies": []
     },
     "Public/Likovi/Kregg Barellfist.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 584,
       "exportedPath": "Public/Likovi/Kregg Barellfist.html",
       "dependencies": []
     },
+    "Public/Likovi/Kripp.md": {
+      "modifiedTime": 1710345735056,
+      "sourceSize": 383,
+      "exportedPath": "Public/Likovi/Kripp.html",
+      "dependencies": []
+    },
+    "Public/Likovi/Lerit Fardo.md": {
+      "modifiedTime": 1710345735056,
+      "sourceSize": 1225,
+      "exportedPath": "Public/Likovi/Lerit Fardo.html",
+      "dependencies": []
+    },
     "Public/Likovi/Lima.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 206,
       "exportedPath": "Public/Likovi/Lima.html",
       "dependencies": []
     },
     "Public/Likovi/Ljubica.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 377,
       "exportedPath": "Public/Likovi/Ljubica.html",
       "dependencies": []
     },
+    "Public/Likovi/Maestro Fritzwild.md": {
+      "modifiedTime": 1710345735056,
+      "sourceSize": 651,
+      "exportedPath": "Public/Likovi/Maestro Fritzwild.html",
+      "dependencies": []
+    },
     "Public/Likovi/Margareta.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 1516,
       "exportedPath": "Public/Likovi/Margareta.html",
       "dependencies": []
     },
     "Public/Likovi/Mirza.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 313,
       "exportedPath": "Public/Likovi/Mirza.html",
       "dependencies": []
     },
+    "Public/Likovi/narednik Beggor Fireforge.md": {
+      "modifiedTime": 1710345735056,
+      "sourceSize": 211,
+      "exportedPath": "Public/Likovi/narednik Beggor Fireforge.html",
+      "dependencies": []
+    },
     "Public/Likovi/Oregon.md": {
-      "modifiedTime": 1709504223418,
-      "sourceSize": 523,
+      "modifiedTime": 1710345735056,
+      "sourceSize": 535,
       "exportedPath": "Public/Likovi/Oregon.html",
       "dependencies": []
     },
+    "Public/Likovi/Pape.md": {
+      "modifiedTime": 1710345735056,
+      "sourceSize": 346,
+      "exportedPath": "Public/Likovi/Pape.html",
+      "dependencies": []
+    },
     "Public/Likovi/Pejo.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 1319,
       "exportedPath": "Public/Likovi/Pejo.html",
       "dependencies": []
     },
     "Public/Likovi/Perica.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 133,
       "exportedPath": "Public/Likovi/Perica.html",
       "dependencies": []
     },
     "Public/Likovi/Pirat Skariba.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 265,
       "exportedPath": "Public/Likovi/Pirat Skariba.html",
       "dependencies": []
     },
+    "Public/Likovi/Poručnik Gorge.md": {
+      "modifiedTime": 1710345735056,
+      "sourceSize": 348,
+      "exportedPath": "Public/Likovi/Poručnik Gorge.html",
+      "dependencies": []
+    },
     "Public/Likovi/Profesor Korbo.md": {
-      "modifiedTime": 1709504223418,
-      "sourceSize": 267,
+      "modifiedTime": 1710345735056,
+      "sourceSize": 456,
       "exportedPath": "Public/Likovi/Profesor Korbo.html",
       "dependencies": []
     },
     "Public/Likovi/Profesor Lukash.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 717,
       "exportedPath": "Public/Likovi/Profesor Lukash.html",
       "dependencies": []
     },
+    "Public/Likovi/Profesorica Rita.md": {
+      "modifiedTime": 1710345735056,
+      "sourceSize": 479,
+      "exportedPath": "Public/Likovi/Profesorica Rita.html",
+      "dependencies": []
+    },
+    "Public/Likovi/Puggy.md": {
+      "modifiedTime": 1710345735056,
+      "sourceSize": 219,
+      "exportedPath": "Public/Likovi/Puggy.html",
+      "dependencies": []
+    },
     "Public/Likovi/Rakan.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 656,
       "exportedPath": "Public/Likovi/Rakan.html",
       "dependencies": []
     },
     "Public/Likovi/Ravioli.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 697,
       "exportedPath": "Public/Likovi/Ravioli.html",
       "dependencies": []
     },
     "Public/Likovi/Rondo.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 544,
       "exportedPath": "Public/Likovi/Rondo.html",
       "dependencies": []
     },
     "Public/Likovi/Slavica.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 397,
       "exportedPath": "Public/Likovi/Slavica.html",
       "dependencies": []
     },
     "Public/Likovi/Tomica.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 450,
       "exportedPath": "Public/Likovi/Tomica.html",
       "dependencies": []
     },
     "Public/Mjesta/Ashpit.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 177,
       "exportedPath": "Public/Mjesta/Ashpit.html",
       "dependencies": []
     },
     "Public/Mjesta/Blatokrižje.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 339,
       "exportedPath": "Public/Mjesta/Blatokrižje.html",
       "dependencies": []
     },
     "Public/Mjesta/Bukit.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 166,
       "exportedPath": "Public/Mjesta/Bukit.html",
       "dependencies": []
     },
     "Public/Mjesta/Coggsville.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 506,
       "exportedPath": "Public/Mjesta/Coggsville.html",
       "dependencies": []
     },
     "Public/Mjesta/Drevna Patuljačka Knjižnica.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 941,
       "exportedPath": "Public/Mjesta/Drevna Patuljačka Knjižnica.html",
       "dependencies": []
     },
     "Public/Mjesta/Eragorova katedrala.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 232,
       "exportedPath": "Public/Mjesta/Eragorova katedrala.html",
       "dependencies": []
     },
     "Public/Mjesta/Fortaare.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 240,
       "exportedPath": "Public/Mjesta/Fortaare.html",
       "dependencies": []
     },
     "Public/Mjesta/Gondar.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 892,
       "exportedPath": "Public/Mjesta/Gondar.html",
       "dependencies": []
     },
     "Public/Mjesta/Knjižnica u Gondaru.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 274,
       "exportedPath": "Public/Mjesta/Knjižnica u Gondaru.html",
       "dependencies": []
     },
     "Public/Mjesta/Little Post.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 218,
       "exportedPath": "Public/Mjesta/Little Post.html",
       "dependencies": []
     },
+    "Public/Mjesta/Lumini.md": {
+      "modifiedTime": 1710345735056,
+      "sourceSize": 546,
+      "exportedPath": "Public/Mjesta/Lumini.html",
+      "dependencies": []
+    },
     "Public/Mjesta/Magic Sex Shop.md": {
-      "modifiedTime": 1709504223418,
-      "sourceSize": 264,
+      "modifiedTime": 1710345735056,
+      "sourceSize": 328,
       "exportedPath": "Public/Mjesta/Magic Sex Shop.html",
       "dependencies": []
     },
     "Public/Mjesta/Mudland.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 267,
       "exportedPath": "Public/Mjesta/Mudland.html",
       "dependencies": []
     },
     "Public/Mjesta/Nyn Bukit.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 271,
       "exportedPath": "Public/Mjesta/Nyn Bukit.html",
       "dependencies": []
     },
     "Public/Mjesta/Peninsular.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 349,
       "exportedPath": "Public/Mjesta/Peninsular.html",
       "dependencies": []
     },
     "Public/Mjesta/Quan Ma.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 309,
       "exportedPath": "Public/Mjesta/Quan Ma.html",
       "dependencies": []
     },
     "Public/Mjesta/Rundek.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 1096,
       "exportedPath": "Public/Mjesta/Rundek.html",
       "dependencies": []
     },
     "Public/Mjesta/Ružičnjak.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 827,
       "exportedPath": "Public/Mjesta/Ružičnjak.html",
       "dependencies": []
     },
     "Public/Mjesta/Sapijina crkva.md": {
-      "modifiedTime": 1709504223418,
-      "sourceSize": 263,
+      "modifiedTime": 1710345735056,
+      "sourceSize": 269,
       "exportedPath": "Public/Mjesta/Sapijina crkva.html",
       "dependencies": []
     },
     "Public/Mjesta/Široki Brijeg.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 580,
       "exportedPath": "Public/Mjesta/Široki Brijeg.html",
       "dependencies": []
     },
     "Public/Mjesta/Škola Otvorene Magije.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 264,
       "exportedPath": "Public/Mjesta/Škola Otvorene Magije.html",
       "dependencies": []
     },
     "Public/Mjesta/Stonehelm Hollow.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 382,
       "exportedPath": "Public/Mjesta/Stonehelm Hollow.html",
       "dependencies": []
     },
     "Public/Mjesta/Svet Stvari.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 499,
       "exportedPath": "Public/Mjesta/Svet Stvari.html",
       "dependencies": []
     },
     "Public/Mjesta/The Isles.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 253,
       "exportedPath": "Public/Mjesta/The Isles.html",
       "dependencies": []
     },
     "Public/Mjesta/Tinkertop.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 761,
       "exportedPath": "Public/Mjesta/Tinkertop.html",
       "dependencies": []
     },
     "Public/Mjesta/Tinkertop Mlin.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 586,
       "exportedPath": "Public/Mjesta/Tinkertop Mlin.html",
       "dependencies": []
     },
     "Public/Mjesta/Veli Pijuk.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 294,
       "exportedPath": "Public/Mjesta/Veli Pijuk.html",
       "dependencies": []
     },
     "Public/Mjesta/Veliki Krč.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 217,
       "exportedPath": "Public/Mjesta/Veliki Krč.html",
       "dependencies": []
     },
     "Public/Mjesta/Žulj i Mulj.md": {
-      "modifiedTime": 1709504223418,
-      "sourceSize": 272,
+      "modifiedTime": 1710345735056,
+      "sourceSize": 274,
       "exportedPath": "Public/Mjesta/Žulj i Mulj.html",
       "dependencies": []
     },
     "Public/Mjesta/Žuta Lokva.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 156,
       "exportedPath": "Public/Mjesta/Žuta Lokva.html",
       "dependencies": []
     },
+    "Public/Organizacije/Blatna Garda.md": {
+      "modifiedTime": 1710345735056,
+      "sourceSize": 452,
+      "exportedPath": "Public/Organizacije/Blatna Garda.html",
+      "dependencies": []
+    },
     "Public/Organizacije/Dozen Sons.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 600,
       "exportedPath": "Public/Organizacije/Dozen Sons.html",
       "dependencies": []
     },
     "Public/Organizacije/EOME kultisti.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 1732,
       "exportedPath": "Public/Organizacije/EOME kultisti.html",
       "dependencies": []
     },
     "Public/Organizacije/Flyer.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 255,
       "exportedPath": "Public/Organizacije/Flyer.html",
       "dependencies": []
     },
     "Public/Organizacije/Stoneborn.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 692,
       "exportedPath": "Public/Organizacije/Stoneborn.html",
       "dependencies": []
     },
     "Public/Pravila/Aura of Purity.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 759,
       "exportedPath": "Public/Pravila/Aura of Purity.html",
       "dependencies": []
     },
     "Public/Pravila/Bless.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 799,
       "exportedPath": "Public/Pravila/Bless.html",
       "dependencies": []
     },
     "Public/Pravila/Blinded.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 258,
       "exportedPath": "Public/Pravila/Blinded.html",
       "dependencies": []
     },
     "Public/Pravila/Catapult.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 988,
       "exportedPath": "Public/Pravila/Catapult.html",
       "dependencies": []
     },
     "Public/Pravila/Charmed.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 260,
       "exportedPath": "Public/Pravila/Charmed.html",
       "dependencies": []
     },
     "Public/Pravila/Deafened.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 159,
       "exportedPath": "Public/Pravila/Deafened.html",
       "dependencies": []
     },
     "Public/Pravila/Fly.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 693,
       "exportedPath": "Public/Pravila/Fly.html",
       "dependencies": []
     },
     "Public/Pravila/Incapacitated.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 127,
       "exportedPath": "Public/Pravila/Incapacitated.html",
       "dependencies": []
     },
     "Public/Pravila/Lesser Restoration.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 440,
       "exportedPath": "Public/Pravila/Lesser Restoration.html",
       "dependencies": []
     },
+    "Public/Pravila/Magic Jar.md": {
+      "modifiedTime": 1710345735056,
+      "sourceSize": 2641,
+      "exportedPath": "Public/Pravila/Magic Jar.html",
+      "dependencies": []
+    },
     "Public/Pravila/Paralyzed.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 380,
       "exportedPath": "Public/Pravila/Paralyzed.html",
       "dependencies": []
     },
     "Public/Pravila/Poisoned.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 136,
       "exportedPath": "Public/Pravila/Poisoned.html",
       "dependencies": []
     },
     "Public/Pravila/Restrained.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 319,
       "exportedPath": "Public/Pravila/Restrained.html",
       "dependencies": []
     },
     "Public/Predaja/Accra.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 107,
       "exportedPath": "Public/Predaja/Accra.html",
       "dependencies": []
     },
     "Public/Predaja/Akko.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 126,
       "exportedPath": "Public/Predaja/Akko.html",
       "dependencies": []
     },
     "Public/Predaja/Astralni Plane.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 459,
       "exportedPath": "Public/Predaja/Astralni Plane.html",
       "dependencies": []
     },
     "Public/Predaja/Black Blessing.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 886,
       "exportedPath": "Public/Predaja/Black Blessing.html",
       "dependencies": []
     },
     "Public/Predaja/Black Fang.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 223,
       "exportedPath": "Public/Predaja/Black Fang.html",
       "dependencies": []
     },
     "Public/Predaja/Capita.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 253,
       "exportedPath": "Public/Predaja/Capita.html",
       "dependencies": []
     },
     "Public/Predaja/Carstvo Numeria.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 1194,
       "exportedPath": "Public/Predaja/Carstvo Numeria.html",
       "dependencies": []
     },
     "Public/Predaja/Darz.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 1700,
       "exportedPath": "Public/Predaja/Darz.html",
       "dependencies": []
     },
     "Public/Predaja/Darzahar.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 608,
       "exportedPath": "Public/Predaja/Darzahar.html",
       "dependencies": []
     },
     "Public/Predaja/Duergar.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 167,
       "exportedPath": "Public/Predaja/Duergar.html",
       "dependencies": []
     },
     "Public/Predaja/Eragor.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 208,
       "exportedPath": "Public/Predaja/Eragor.html",
       "dependencies": []
     },
     "Public/Predaja/Flatter.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 201,
       "exportedPath": "Public/Predaja/Flatter.html",
       "dependencies": []
     },
     "Public/Predaja/Gea.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 96,
       "exportedPath": "Public/Predaja/Gea.html",
       "dependencies": []
     },
+    "Public/Predaja/Gn'thaire.md": {
+      "modifiedTime": 1710345735056,
+      "sourceSize": 507,
+      "exportedPath": "Public/Predaja/Gn'thaire.html",
+      "dependencies": []
+    },
     "Public/Predaja/Goldenleaf.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 140,
       "exportedPath": "Public/Predaja/Goldenleaf.html",
       "dependencies": []
     },
     "Public/Predaja/Goliver.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 928,
       "exportedPath": "Public/Predaja/Goliver.html",
       "dependencies": []
     },
     "Public/Predaja/Marion Lotus.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 355,
       "exportedPath": "Public/Predaja/Marion Lotus.html",
       "dependencies": []
     },
     "Public/Predaja/Middlegate.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 329,
       "exportedPath": "Public/Predaja/Middlegate.html",
       "dependencies": []
     },
     "Public/Predaja/Morynea.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 171,
       "exportedPath": "Public/Predaja/Morynea.html",
       "dependencies": []
     },
     "Public/Predaja/New Darz.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 182,
       "exportedPath": "Public/Predaja/New Darz.html",
       "dependencies": []
     },
     "Public/Predaja/Northfall.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 289,
       "exportedPath": "Public/Predaja/Northfall.html",
       "dependencies": []
     },
     "Public/Predaja/Obbo.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 221,
       "exportedPath": "Public/Predaja/Obbo.html",
       "dependencies": []
     },
     "Public/Predaja/Obitelj Lotus.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 257,
       "exportedPath": "Public/Predaja/Obitelj Lotus.html",
       "dependencies": []
     },
     "Public/Predaja/Olus.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 247,
       "exportedPath": "Public/Predaja/Olus.html",
       "dependencies": []
     },
     "Public/Predaja/Olusus.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 211,
       "exportedPath": "Public/Predaja/Olusus.html",
       "dependencies": []
     },
     "Public/Predaja/Planes of Existence.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 78,
       "exportedPath": "Public/Predaja/Planes of Existence.html",
       "dependencies": []
     },
     "Public/Predaja/Pobuna patuljaka.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 716,
       "exportedPath": "Public/Predaja/Pobuna patuljaka.html",
       "dependencies": []
     },
     "Public/Predaja/Pobuna sjevera.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 1332,
       "exportedPath": "Public/Predaja/Pobuna sjevera.html",
       "dependencies": []
     },
     "Public/Predaja/Pobuna zapada.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 430,
       "exportedPath": "Public/Predaja/Pobuna zapada.html",
       "dependencies": []
     },
     "Public/Predaja/Radeon II Lotus.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 691,
       "exportedPath": "Public/Predaja/Radeon II Lotus.html",
       "dependencies": []
     },
     "Public/Predaja/Retrospektiva.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 644,
       "exportedPath": "Public/Predaja/Retrospektiva.html",
       "dependencies": []
     },
     "Public/Predaja/Rurik Mudbeard.md": {
-      "modifiedTime": 1709504223418,
-      "sourceSize": 124,
+      "modifiedTime": 1710345735056,
+      "sourceSize": 490,
       "exportedPath": "Public/Predaja/Rurik Mudbeard.html",
       "dependencies": []
     },
     "Public/Predaja/Sapia.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 226,
       "exportedPath": "Public/Predaja/Sapia.html",
       "dependencies": []
     },
     "Public/Predaja/Sirio Talon.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 148,
       "exportedPath": "Public/Predaja/Sirio Talon.html",
       "dependencies": []
     },
     "Public/Predaja/Soron the Dragonslayer.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 158,
       "exportedPath": "Public/Predaja/Soron the Dragonslayer.html",
       "dependencies": []
     },
     "Public/Predaja/Tarr Bonemare.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 343,
       "exportedPath": "Public/Predaja/Tarr Bonemare.html",
       "dependencies": []
     },
     "Public/Predaja/Terra Dos.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 303,
       "exportedPath": "Public/Predaja/Terra Dos.html",
       "dependencies": []
     },
     "Public/Predaja/Tok.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 96,
       "exportedPath": "Public/Predaja/Tok.html",
       "dependencies": []
     },
     "Public/Predaja/True Darazians.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 160,
       "exportedPath": "Public/Predaja/True Darazians.html",
       "dependencies": []
     },
     "Public/Predaja/Veliki Rat.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 744,
       "exportedPath": "Public/Predaja/Veliki Rat.html",
       "dependencies": []
     },
     "Public/Predaja/Wetland.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 200,
       "exportedPath": "Public/Predaja/Wetland.html",
       "dependencies": []
     },
     "Public/Predaja/Xor.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 291,
       "exportedPath": "Public/Predaja/Xor.html",
       "dependencies": []
     },
     "Public/Predaja/Xorrax.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 208,
       "exportedPath": "Public/Predaja/Xorrax.html",
       "dependencies": []
     },
     "Public/Predaja/Yugul.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 647,
       "exportedPath": "Public/Predaja/Yugul.html",
       "dependencies": []
     },
     "Public/Predmeti/Bag of Holding.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 1451,
       "exportedPath": "Public/Predmeti/Bag of Holding.html",
       "dependencies": []
     },
     "Public/Predmeti/Cloak of Evasion.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 806,
       "exportedPath": "Public/Predmeti/Cloak of Evasion.html",
       "dependencies": []
     },
     "Public/Predmeti/Holy Water.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 946,
       "exportedPath": "Public/Predmeti/Holy Water.html",
       "dependencies": []
     },
     "Public/Predmeti/Lantern of Purity.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 1259,
       "exportedPath": "Public/Predmeti/Lantern of Purity.html",
       "dependencies": []
     },
     "Public/Predmeti/Omnigod Amulet.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 875,
       "exportedPath": "Public/Predmeti/Omnigod Amulet.html",
       "dependencies": []
     },
+    "Public/Predmeti/Potion of Enlarge Reduce Penis.md": {
+      "modifiedTime": 1710345735056,
+      "sourceSize": 887,
+      "exportedPath": "Public/Predmeti/Potion of Enlarge Reduce Penis.html",
+      "dependencies": []
+    },
     "Public/Predmeti/Potion of Healing (Greater).md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 484,
       "exportedPath": "Public/Predmeti/Potion of Healing (Greater).html",
       "dependencies": []
     },
     "Public/Predmeti/Potion of Healing (Regular).md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 505,
       "exportedPath": "Public/Predmeti/Potion of Healing (Regular).html",
       "dependencies": []
     },
     "Public/Predmeti/Prvi Plamen.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 297,
       "exportedPath": "Public/Predmeti/Prvi Plamen.html",
       "dependencies": []
     },
     "Public/Predmeti/Repeating Shot.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 746,
       "exportedPath": "Public/Predmeti/Repeating Shot.html",
       "dependencies": []
     },
     "Public/Predmeti/Ring of Protection.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 293,
       "exportedPath": "Public/Predmeti/Ring of Protection.html",
       "dependencies": []
     },
     "Public/Predmeti/Rope of Consensual Entanglement.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 780,
       "exportedPath": "Public/Predmeti/Rope of Consensual Entanglement.html",
       "dependencies": []
     },
+    "Public/Predmeti/Scroll of Mage Dildo.md": {
+      "modifiedTime": 1710345735056,
+      "sourceSize": 672,
+      "exportedPath": "Public/Predmeti/Scroll of Mage Dildo.html",
+      "dependencies": []
+    },
     "Public/Predmeti/Spell Refueling Ring.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 514,
       "exportedPath": "Public/Predmeti/Spell Refueling Ring.html",
       "dependencies": []
     },
     "Public/Predmeti/Spyglass.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 407,
       "exportedPath": "Public/Predmeti/Spyglass.html",
       "dependencies": []
     },
     "Public/Predmeti/The Dark Urge.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 1958,
       "exportedPath": "Public/Predmeti/The Dark Urge.html",
       "dependencies": []
     },
     "Public/Predmeti/Tinkertop Signet Ring.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 595,
       "exportedPath": "Public/Predmeti/Tinkertop Signet Ring.html",
       "dependencies": []
     },
     "Public/Predmeti/Vestment of Saint Goliver.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 869,
       "exportedPath": "Public/Predmeti/Vestment of Saint Goliver.html",
       "dependencies": []
     },
     "Public/Predmeti/Wand of Eragor's Blessing.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 984,
       "exportedPath": "Public/Predmeti/Wand of Eragor's Blessing.html",
       "dependencies": []
     },
     "index.md": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 519,
       "exportedPath": "index.html",
       "dependencies": []
     },
-    "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1708468979953,
-      "sourceSize": 23377,
-      "exportedPath": "lib/scripts/graph-wasm.wasm",
-      "dependencies": []
-    },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1709504223418,
+      "modifiedTime": 1710345735056,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
-      "dependencies": []
-    },
-    "lib/html/file-tree.html": {
-      "modifiedTime": 1708468979953,
-      "sourceSize": 148455,
-      "exportedPath": "lib/html/file-tree.html",
-      "dependencies": []
-    },
-    "lib/scripts/webpage.js": {
-      "modifiedTime": 1708468979953,
-      "sourceSize": 47290,
-      "exportedPath": "lib/scripts/webpage.js",
-      "dependencies": []
-    },
-    "lib/scripts/graph-view.js": {
-      "modifiedTime": 1708468979953,
-      "sourceSize": 15519,
-      "exportedPath": "lib/scripts/graph-view.js",
-      "dependencies": []
-    },
-    "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1708468979953,
-      "sourceSize": 14021,
-      "exportedPath": "lib/scripts/graph-wasm.js",
-      "dependencies": []
-    },
-    "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1708468979953,
-      "sourceSize": 5179,
-      "exportedPath": "lib/scripts/graph-render-worker.js",
-      "dependencies": []
-    },
-    "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1708468979953,
-      "sourceSize": 29832,
-      "exportedPath": "lib/scripts/tinycolor.js",
-      "dependencies": []
-    },
-    "lib/scripts/pixi.js": {
-      "modifiedTime": 1708468979953,
-      "sourceSize": 449509,
-      "exportedPath": "lib/scripts/pixi.js",
-      "dependencies": []
-    },
-    "lib/scripts/minisearch.js": {
-      "modifiedTime": 1708468979953,
-      "sourceSize": 29422,
-      "exportedPath": "lib/scripts/minisearch.js",
-      "dependencies": []
-    },
-    "lib/media/favicon.png": {
-      "modifiedTime": 1708468979953,
-      "sourceSize": 1105,
-      "exportedPath": "lib/media/favicon.png",
-      "dependencies": []
-    },
-    "lib/scripts/graph-data.js": {
-      "modifiedTime": 1708468979953,
-      "sourceSize": 14496,
-      "exportedPath": "lib/scripts/graph-data.js",
-      "dependencies": []
-    },
-    "lib/styles/obsidian.css": {
-      "modifiedTime": 1708468979953,
-      "sourceSize": 141463,
-      "exportedPath": "lib/styles/obsidian.css",
-      "dependencies": []
-    },
-    "lib/styles/other-plugins.css": {
-      "modifiedTime": 1708468979953,
-      "sourceSize": 2104,
-      "exportedPath": "lib/styles/other-plugins.css",
-      "dependencies": []
-    },
-    "lib/styles/theme.css": {
-      "modifiedTime": 1708468979953,
-      "sourceSize": 258943,
-      "exportedPath": "lib/styles/theme.css",
-      "dependencies": []
-    },
-    "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1708468979953,
-      "sourceSize": 236,
-      "exportedPath": "lib/styles/global-variable-styles.css",
-      "dependencies": []
-    },
-    "lib/styles/supported-plugins.css": {
-      "modifiedTime": 1708468979953,
-      "sourceSize": 224,
-      "exportedPath": "lib/styles/supported-plugins.css",
-      "dependencies": []
-    },
-    "lib/styles/main-styles.css": {
-      "modifiedTime": 1708468979953,
-      "sourceSize": 23130,
-      "exportedPath": "lib/styles/main-styles.css",
-      "dependencies": []
-    },
-    "lib/styles/snippets.css": {
-      "modifiedTime": 1708468979953,
-      "sourceSize": 22346,
-      "exportedPath": "lib/styles/snippets.css",
-      "dependencies": []
-    },
-    "Public/Dnevnik/Session 11.md": {
-      "modifiedTime": 1709504223418,
-      "sourceSize": 5441,
-      "exportedPath": "Public/Dnevnik/Session 11.html",
-      "dependencies": []
-    },
-    "Public/Likovi/car Lionel III..md": {
-      "modifiedTime": 1709504223418,
-      "sourceSize": 359,
-      "exportedPath": "Public/Likovi/car Lionel III..html",
-      "dependencies": []
-    },
-    "Public/Likovi/Kripp.md": {
-      "modifiedTime": 1709504223418,
-      "sourceSize": 383,
-      "exportedPath": "Public/Likovi/Kripp.html",
-      "dependencies": []
-    },
-    "Public/Likovi/Maestro Fritzwild.md": {
-      "modifiedTime": 1709504223418,
-      "sourceSize": 651,
-      "exportedPath": "Public/Likovi/Maestro Fritzwild.html",
-      "dependencies": []
-    },
-    "Public/Likovi/narednik Beggor Fireforge.md": {
-      "modifiedTime": 1709504223418,
-      "sourceSize": 211,
-      "exportedPath": "Public/Likovi/narednik Beggor Fireforge.html",
-      "dependencies": []
-    },
-    "Public/Likovi/pukovnik Gorge.md": {
-      "modifiedTime": 1709504223418,
-      "sourceSize": 338,
-      "exportedPath": "Public/Likovi/pukovnik Gorge.html",
-      "dependencies": []
-    },
-    "Public/Mjesta/Lumini.md": {
-      "modifiedTime": 1709504223418,
-      "sourceSize": 545,
-      "exportedPath": "Public/Mjesta/Lumini.html",
-      "dependencies": []
-    },
-    "Public/Organizacije/Blatna Garda.md": {
-      "modifiedTime": 1709504223418,
-      "sourceSize": 456,
-      "exportedPath": "Public/Organizacije/Blatna Garda.html",
-      "dependencies": []
-    },
-    "Public/Predaja/Gn'thaire.md": {
-      "modifiedTime": 1709504223418,
-      "sourceSize": 507,
-      "exportedPath": "Public/Predaja/Gn'thaire.html",
-      "dependencies": []
-    },
-    "Public/assets/Puggy.jpg": {
-      "modifiedTime": 1709504223418,
-      "sourceSize": 197336,
-      "exportedPath": "Public/assets/Puggy.jpg",
-      "dependencies": []
-    },
-    "Public/Likovi/Puggy.md": {
-      "modifiedTime": 1709504223418,
-      "sourceSize": 219,
-      "exportedPath": "Public/Likovi/Puggy.html",
       "dependencies": []
     }
   }
